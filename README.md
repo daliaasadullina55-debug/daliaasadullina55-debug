@@ -1,8 +1,6 @@
 # Hi, I'm Dalia Asadullina 👩‍💻
 
-![Profile Views](https://img.shields.io/badge/Profile-Student%20Developer-purple)
-![Open Source](https://img.shields.io/badge/Open--Source-Learning-yellow)
-![Made With](https://img.shields.io/badge/Made%20With-Markdown-green)
+![Profile Views](https://img.shields.io/badge/Profile-Student%20-purple)
 
 ---
 
@@ -14,7 +12,6 @@
 🌍 English level: B2
 
 I am passionate about programming, cybersecurity, and digital design.  
-Currently improving my development skills and building projects for my portfolio.
 
 ---
 

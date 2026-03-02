@@ -1,4 +1,4 @@
-# Hi, I'm Dalia Asadullina 👩‍💻
+# Hi, I'm Daliya Asadullina 👩‍💻
 
 ![Profile Views](https://img.shields.io/badge/Profile-Student%20-purple)
 

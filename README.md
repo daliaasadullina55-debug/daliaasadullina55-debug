@@ -11,7 +11,7 @@
 💻 Future Developer & Information Security Specialist  
 🌍 English level: B2
 
-I am passionate about programming, cybersecurity, and digital design.  
+I am passionate about programming, cybersecurity and digital design.  
 
 ---
 
